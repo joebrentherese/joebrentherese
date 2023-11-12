@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @joebrentherese
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+joebrentherese/joebrentherese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm interested in the poolstaking.pro eth staking pool and how it operates.
+any info on poolstaking.pro greatly appreciated.
+info to josephbrennanpp@gmail.com
